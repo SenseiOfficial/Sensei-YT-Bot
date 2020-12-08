@@ -29,9 +29,9 @@ $tg->cmd('vid:<<:any>>', function ($video_id, $option) use ($tg, $y, $message) {
     // get video information and initial
     if($y->init($video_id) !== false){
 
-    	$tg->sendMessage("Please wait ...", $tg->getChatId());
+    	$tg->sendMessage("🤧 Please wait ..I am requesting my master @sensei_nex to get that video for you as I cant't do anything without his permission", $tg->getChatId());
     	//$tg->sendMessage($y->getName(), $tg->getChatId());
-    	$msg = "Download finished! \n".$y->download();
+    	$msg = "💔 Video Download finished, Say thanks to @sensei_nex for providing such a G.O.A.T. bot 💔! \n".$y->download();
     }else{
   	$msg = $y->getError();
     }
