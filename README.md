@@ -6,7 +6,7 @@ The Best Telegram bot for downloading Youtube videos directly by [Sensei](https:
    - Open Source and Stable ( Its complete so no updates ). 👀👀
 
 <p align="center">
-<img src="https://publiclink.herokuapp.com/5412024944440200/2020-12-08_11:12:43.jpg" alt="Sensei-YT-Bot">
+<img src="https://telegra.ph/file/a95729a620c1c12cef00b.jpg" alt="Sensei-YT-Bot">
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
